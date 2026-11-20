@@ -1,0 +1,1 @@
+def trends(): return {}
